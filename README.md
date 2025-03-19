@@ -11,17 +11,16 @@ Soy **Joanna Carrión Pérez**, bachiller en Ingeniería Electrónica con experi
 - **JavaScript** - (Opcional, si en el futuro agregas interactividad)
 - **GitHub Pages** - Para desplegar el portafolio
 
-## 📸 Vista previa
 ![Vista previa del portafolio](./assets/ImagenPortada.png)
 
 ## 📂 Estructura del proyecto
 ```md
-/Mi-Portafolio
-│── /assets # Imágenes y logos
-│── /styles # Hojas de estilo (CSS)
-│── index.html # Página principal
-│── about.html # Página sobre mí
-│── README.md # Este archivo
+📂 Mi-Portafolio
+│── 📂 assets # Imágenes y logos
+│── 📂 styles # Hojas de estilo (CSS)
+│── 📜 index.html # Página principal
+│── 📜 about.html # Página sobre mí
+│── 📜 README.md # Este archivo
 ```
 
 ## 🔗 Redes sociales
