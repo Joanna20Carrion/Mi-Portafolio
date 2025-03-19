@@ -26,10 +26,6 @@ Conéctate conmigo a través de mis redes:
 - 💼 **[LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)**
 - 📷 **[Instagram](https://www.instagram.com/joannacarrionperez/)**
 
-## 📌 Cómo verlo en vivo
-Puedes ver mi portafolio en línea a través de **GitHub Pages** con este enlace:  
-🔗 [https://Joanna20Carrion.github.io/](https://joanna20carrion.github.io/Mi-Portafolio/about.html)**
-
 ## 📥 Clonar el proyecto
 Si deseas clonar y explorar mi portafolio, usa el siguiente comando:
 
