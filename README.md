@@ -25,7 +25,7 @@ Soy **Joanna Carrión Pérez**, bachiller en Ingeniería Electrónica con experi
 
 ## 🔗 Redes sociales
 Conéctate conmigo a través de mis redes:
-- 🌍 **[Portafolio en línea](https://joanna20carrion.github.io/Mi-Portafolio/about.html)**
+- 🌍 **[Portafolio en línea](https://joanna20carrion.github.io/Mi-Portafolio/index.html)**
 - 🐱 **[GitHub](https://github.com/Joanna20Carrion)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)**
 - 📷 **[Instagram](https://www.instagram.com/joannacarrionperez/)**
