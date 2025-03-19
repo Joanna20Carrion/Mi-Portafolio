@@ -12,7 +12,7 @@ Soy **Joanna Carrión Pérez**, bachiller en Ingeniería Electrónica con experi
 - **GitHub Pages** - Para desplegar el portafolio
 
 ## 📸 Vista previa
-![Vista previa del portafolio](./assets/Imagen.png)
+![Vista previa del portafolio](./assets/ImagenPortada.png)
 
 ## 📂 Estructura del proyecto
 ```md
@@ -21,14 +21,14 @@ Soy **Joanna Carrión Pérez**, bachiller en Ingeniería Electrónica con experi
 
 ## 🔗 Redes sociales
 Conéctate conmigo a través de mis redes:
-- 🌍 **[Portafolio en línea](https://github.com/Joanna20Carrion)**
+- 🌍 **[Portafolio en línea](https://joanna20carrion.github.io/Mi-Portafolio/about.html)**
 - 🐱 **[GitHub](https://github.com/Joanna20Carrion)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)**
 - 📷 **[Instagram](https://www.instagram.com/joannacarrionperez/)**
 
 ## 📌 Cómo verlo en vivo
 Puedes ver mi portafolio en línea a través de **GitHub Pages** con este enlace:  
-🔗 [https://Joanna20Carrion.github.io/](https://Joanna20Carrion.github.io/) *(Cambia esto según tu usuario y configuración de GitHub Pages)*.
+🔗 [https://Joanna20Carrion.github.io/](https://joanna20carrion.github.io/Mi-Portafolio/about.html)**
 
 ## 📥 Clonar el proyecto
 Si deseas clonar y explorar mi portafolio, usa el siguiente comando:
