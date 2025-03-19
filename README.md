@@ -16,7 +16,12 @@ Soy **Joanna Carrión Pérez**, bachiller en Ingeniería Electrónica con experi
 
 ## 📂 Estructura del proyecto
 ```md
-/mi-portafolio │── /assets # Imágenes y logos │── /styles # Hojas de estilo (CSS) │── index.html # Página principal │── about.html # Página sobre mí │── README.md # Este archivo
+/Mi-Portafolio
+│── /assets # Imágenes y logos
+│── /styles # Hojas de estilo (CSS)
+│── index.html # Página principal
+│── about.html # Página sobre mí
+│── README.md # Este archivo
 ```
 
 ## 🔗 Redes sociales
