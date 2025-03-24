@@ -1,15 +1,22 @@
 # 🌐 Portafolio de Joanna Carrión Pérez
 
-🚀 **Bienvenido a mi portafolio!** Este es un proyecto personal donde muestro mi experiencia, habilidades y proyectos en ingeniería electrónica, telecomunicaciones y análisis de datos.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-181717?style=flat&logo=github)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carri%C3%B3n%20P%C3%A9rez-blue?style=flat&logo=linkedin)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
+🚀 **¡Bienvenido a mi portafolio!** Este es un proyecto personal donde muestro mi experiencia, habilidades y proyectos en ingeniería electrónica, telecomunicaciones y análisis de datos.
 
 ## 📌 Sobre mí
 Soy **Joanna Carrión Pérez**, bachiller en Ingeniería Electrónica con experiencia en telecomunicaciones, análisis de datos y supervisión energética. Actualmente, soy practicante en **Osinergmin** y apasionada por la inteligencia artificial, la ciberseguridad y la tecnología.
 
 ## 🎨 Tecnologías utilizadas
-- **HTML5** - Estructura del sitio web
-- **CSS3** - Estilos y diseño responsivo
-- **JavaScript** - (Opcional, si en el futuro agregas interactividad)
-- **GitHub Pages** - Para desplegar el portafolio
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5** → Estructura del sitio web
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3** → Estilos y diseño responsivo
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript** → (Opcional, si en el futuro agregas interactividad)
+- ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-181717?style=flat&logo=github) **GitHub Pages** → Para desplegar el portafolio
 
 ![Vista previa del portafolio](./assets/ImagenPortada.png)
 
@@ -37,11 +44,15 @@ Si deseas clonar y explorar mi portafolio, usa el siguiente comando:
 git clone https://github.com/Joanna20Carrion/Mi-Portafolio.git
 ```
 
-## Autor
-**Joanna Alexandra Carrión Pérez**: Bachiller de Ingeniería Electrónica. Apasionada por la Ciencia de Datos y la Inteligencia Artificial. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+## 👤 Autor
+**Joanna Alexandra Carrión Pérez**  
+🎓 Bachiller de Ingeniería Electrónica  
+💡 Apasionada por la Ciencia de Datos y la Inteligencia Artificial  
+🔗 [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
 
-## Contacto
+## 📩 Contacto
 Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
 
-## Contribuciones
-📌 ¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request.
+## 💡 Contribuciones
+📌 ¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request. 🚀
+
