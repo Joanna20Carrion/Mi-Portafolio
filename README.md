@@ -27,6 +27,7 @@ Soy **Joanna Carrión Pérez**, bachiller en Ingeniería Electrónica con experi
 │── 📂 styles # Hojas de estilo (CSS)
 │── 📜 index.html # Página principal
 │── 📜 about.html # Página sobre mí
+│── 📜 projects.html # Página de proyectos
 │── 📜 README.md # Este archivo
 ```
 
