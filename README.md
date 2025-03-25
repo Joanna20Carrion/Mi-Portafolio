@@ -49,7 +49,7 @@ git clone https://github.com/Joanna20Carrion/Mi-Portafolio.git
 **Joanna Alexandra Carrión Pérez**  
 🎓 Bachiller de Ingeniería Electrónica  
 💡 Apasionada por la Ciencia de Datos y la Inteligencia Artificial  
-🔗 [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carrión%20Pérez-blue?style=flat&logo=linkedin) [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
 
 ## 📩 Contacto
 Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
