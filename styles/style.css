@@ -39,8 +39,6 @@ body{
 
 }
 
-
-
 .presentacion {
     padding: 5% 15%;
     display: flex;
@@ -139,4 +137,54 @@ body{
         width: auto;
     }
     
+}
+
+.grid-proyectos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 40px;
+}
+
+.card-proyecto {
+    position: relative;
+    background-color: var(--color-terciaria);
+    color: var(--color-primaria);
+    padding: 20px;
+    border-radius: 10px;
+    font-family: var(--fuente-montserrat);
+    text-align: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: background 0.3s ease-in-out;
+    text-decoration: none;
+}
+
+.card-proyecto:hover .card-descripcion {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.card-proyecto h3 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.card-descripcion {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.85);
+    color: var(--color-secundaria);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    text-align: justify;
+    opacity: 0;
+    transform: translateY(10%);
+    transition: all 0.3s ease-in-out;
+    border-radius: 10px;
 }
