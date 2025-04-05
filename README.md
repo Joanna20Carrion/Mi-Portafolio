@@ -55,5 +55,4 @@ git clone https://github.com/Joanna20Carrion/Mi-Portafolio.git
 Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
 
 ## 💡 Contribuciones
-📌 ¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request. 🚀
-
+📌 ¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request. 🚀 
